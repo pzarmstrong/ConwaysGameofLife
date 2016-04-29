@@ -13,6 +13,7 @@ package game;
  * @ the University of Dundee, Scotland. I've since revisited it and adapted it for my own amusement.
  * It used to just run in a refreshing console window - but since then I've added GUI capabilities, 
  * with help from Dr. Iain Martin's GUI class.
+ * Game logic written with aid from user Moddington.
  * 
  * Currently working on: mouse clicking+dragging to change state of tiles.
  */
